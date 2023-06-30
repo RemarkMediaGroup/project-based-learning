@@ -1,6 +1,13 @@
-# Project Based Learning
+# Проектное обучение
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community)
+
+Большой справочник руководств по программированию,для начинающих разработчиков.
+
+Хотите создавать приложения с нуля? Велком!
+Эти учебники разделены на разные основные языки программирования. 
+Учебники могут включать несколько технологий и языков.
+
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
